@@ -13,6 +13,7 @@ double a[n][n + 1]
 void main()
 {
     double x[n];
+
     for (k = 0; k < n; k++)
     {
         aa = abs(a[k][k]);
