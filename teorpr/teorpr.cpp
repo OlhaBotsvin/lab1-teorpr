@@ -14,7 +14,7 @@ void main()
 {
     double x[n];
 
-    for (k = 0; k < n; k++)
+    for (k = 0; k < n; k++)//test
     {
         aa = abs(a[k][k]);
         i = k;
